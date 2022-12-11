@@ -1,11 +1,10 @@
 ## Anomaly detection on time series: Reinforcement learning from partially labeled data
-This is an implementation of the anomaly detection algorithm proposed in this paper: ["Deep Reinforcement Learning for Unknown Anomaly Detection"](https://arxiv.org/pdf/2009.06847.pdf), but in other dataset 'NASA C-MAPSS'
+This is an implementation of the anomaly detection algorithm proposed in this paper: ["Deep Reinforcement Learning for Unknown Anomaly Detection"](https://arxiv.org/pdf/2009.06847.pdf), using other dataset 'NASA C-MAPSS'
 
 ## Dataset
 * [NASA_C-MAPSS](https://data.nasa.gov/dataset/C-MAPSS-Aircraft-Engine-Simulator-Data/xaut-bemq)
     
 ## Experiment
-* Set hyperparameters listed in the file `main.py`.
 * Run `python main.py`.
 
 ## Training log files
