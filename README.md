@@ -1,4 +1,4 @@
-## DPLAN-Implementation
+## Anomaly detection on time series: Reinforcement learning from partially labeled data
 This is an implementation of the anomaly detection algorithm proposed in this paper: ["Deep Reinforcement Learning for Unknown Anomaly Detection"](https://arxiv.org/pdf/2009.06847.pdf), but in other dataset 'NASA C-MAPSS'
 
 ## Dataset
