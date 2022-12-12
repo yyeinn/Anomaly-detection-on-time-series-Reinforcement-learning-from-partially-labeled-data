@@ -11,3 +11,6 @@ This is an implementation of the anomaly detection algorithm proposed in this pa
 * `anomaly_rate_1_log.out` Using the anomaly data rate as it is
 * `anomaly_rate_0.5_log.out` Using the anomaly data rate reduced to 0.5
 * `anomaly_rate_0.05_log.out` Using the anomaly data rate reduced to 0.05
+
+## Trained model
+* Files containing all information such as parameters and weights for the trained model are located in `model/`.
